@@ -135,3 +135,19 @@ body {
 .reveal li {
   line-height: 2em;
 }
+
+.reveal .no-border {
+  border: none;
+  box-shadow: none;
+}
+
+.reveal .rsvp {
+  font-size: 210%;
+  font-weight: bold;
+  color: red !important;
+}
+
+.reveal .u-center {
+  display: inline-block;
+  vertical-align: middle;
+}
