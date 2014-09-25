@@ -131,3 +131,7 @@ body {
  *********************************************/
 .reveal .slide-number {
   color: #e7ad52; }
+
+.reveal li {
+  line-height: 2em;
+}
