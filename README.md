@@ -1,4 +1,4 @@
-## Version Control for Non-Techies
+## Version Control for Non-Techies and Techies alike
 
 How To Use Version Control for Everyday Documents a Santa Cruz TechRaising meetup Tuesday, September 30, 2014.
 
